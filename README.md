@@ -1,4 +1,6 @@
 ﻿# AI_FoodInfo_mvvm
+ APK ->
+[apk.zip](https://github.com/SAleksanyaS/AI_FoodInfo_mvvm/files/12886611/apk.zip)
 
 
 
